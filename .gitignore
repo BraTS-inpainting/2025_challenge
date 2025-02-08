@@ -1,0 +1,45 @@
+
+## Dataset
+
+#BraTS2023-GLI-Challenge-TrainingData
+ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData
+
+#Dataset Generation files
+dataset/binarySegmentationMasks.gz
+dataset/tumorCompartments.gz
+dataset/healthyMasks.gz
+
+ASNR-MICCAI-BraTS2023-Local-Synthesis-Challenge-Training
+
+## Baseline model
+
+#Baseline Model(s) and lightning logs
+baseline/lightning_logs/
+
+
+## Evaluation
+
+#Validation Dataset
+ASNR-MICCAI-BraTS2023-Local-Synthesis-Challenge-Validation
+
+#Validation Dataset Results
+ASNR-MICCAI-BraTS2023-Local-Synthesis-Challenge-Training-Results
+ASNR-MICCAI-BraTS2023-Local-Synthesis-Challenge-Validation-Results
+
+#Team evaluation files
+evaluation_*.json
+evaluation_*.yaml
+
+
+##Others
+
+#Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+#Python cache
+__pycache__/
+
+# IDE
+.vscode
+
+.DS_Store
