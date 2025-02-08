@@ -1,11 +1,11 @@
-# BraTS 2024 Inpainting Challenge (Local Synthesis)
+# BraTS 2025 Inpainting Challenge (Local Synthesis)
 
 ![image](https://github.com/user-attachments/assets/12161475-45ab-4995-9f4d-2803fdf81285)
 
 
 This repository is meant as a tutorial for challenge participants. 
 
-If you have not visited the [BraTS 2024 Inpainting Website]([https://www.synapse.org/#!Synapse:syn51156910/wiki/622357](https://www.synapse.org/Synapse:syn53708249/wiki/627498)) yet, you should do so. Also, consider reading [the challenge manuscript](https://arxiv.org/abs/2305.08992) for more context, as the GitHub tutorial is somewhat technical in nature.
+If you have not visited the [BraTS 2025 Inpainting Website]([https://www.synapse.org/#!Synapse:syn51156910/wiki/622357](https://www.synapse.org/Synapse:syn53708249/wiki/627498)) yet, you should do so. Also, consider reading [the challenge manuscript](https://arxiv.org/abs/2305.08992) for more context, as the GitHub tutorial is somewhat technical in nature.
 
 This repository is divided into three subtopics with a separate README file each.
 - **Dataset**: *dataset/README.md*  

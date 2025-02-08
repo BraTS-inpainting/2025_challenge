@@ -30,9 +30,9 @@ To measure the performance of the contributions, we will evaluate the quality of
 The above metrics are only evaluated in the regions that are to-be-inpainted (the ```mask.nii.gz``` file).
 
 ## Requirements
-- Download the training and/or validation dataset from [Synapse](https://www.synapse.org/Synapse:syn59809688) and unzip it into the root of this repository (```2024_challenge/```)
+- Download the training and/or validation dataset from [Synapse](https://www.synapse.org/Synapse:syn59809688) and unzip it into the root of this repository (```2025_challenge/```)
 - Download the trained baseline model from [here](
-https://syncandshare.lrz.de/dl/fiWmxMzsnrWyY3yAja85JE/lightning_logs.zip) and unzip it into ```2024_challenge/baseline/``` (this folder).
+https://syncandshare.lrz.de/dl/fiWmxMzsnrWyY3yAja85JE/lightning_logs.zip) and unzip it into ```2025_challenge/baseline/``` (this folder).
 - Create a new python environment. We recommend python version 3.10
 - Check your cuda version ```nvidia-smi``` (top right)
 - Install required python packages:
@@ -43,5 +43,3 @@ https://syncandshare.lrz.de/dl/fiWmxMzsnrWyY3yAja85JE/lightning_logs.zip) and un
 ## Getting Started
 
 In ```evaluation.ipynb```, you will find exemplary code that lets you generate properly format result files based on your model (we use the baseline model as example). For transparency, we also demonstrate how the server side evaluation script works (this is completely optional).
-
-
