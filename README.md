@@ -1,6 +1,6 @@
 # BraTS 2025 Inpainting Challenge (Local Synthesis)
 
-![image](https://github.com/user-attachments/assets/12161475-45ab-4995-9f4d-2803fdf81285)
+![image](3lions.png)
 
 
 This repository is meant as a tutorial for challenge participants. 
