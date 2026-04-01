@@ -1,3 +1,5 @@
+> ATTENTION: The BraTS inpainting challenge 2025 is finished. We want to thank everybody who contributed to this event. Please follow us [here](https://x.com/BraTS_inpaint), to stay updated regarding our BraTS inpainting challenges.
+
 # BraTS 2025 Inpainting Challenge (Local Synthesis)
 
 ![image](3lions.png)
